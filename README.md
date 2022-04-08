@@ -12,6 +12,6 @@ Dowload the dataset from https://www.kaggle.com/datasets/tawsifurrahman/covid19-
 
 insert the images in the respective folders in the "train" folder was that just create,
 
-select 500 from each folder "Covid",Normal and "Pneumonia and insert it on the "test" folder on the respectives folders.
+select 500 images from each folder "Covid",Normal and "Pneumonia and insert it on the "test" folder on the respectives folders.
 
 Run the code on a IDE conda base
